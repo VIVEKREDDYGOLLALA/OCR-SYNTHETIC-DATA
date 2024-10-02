@@ -1,0 +1,370 @@
+            "id": 1,
+            "name": "QR code"
+        },
+        {
+            "supercategory": null,
+            "id": 2,
+            "name": "advertisement"
+        },
+        {
+            "supercategory": null,
+            "id": 3,
+            "name": "algorithm"
+        },
+        {
+            "supercategory": null,
+            "id": 4,
+            "name": "answer"
+        },
+        {
+            "supercategory": null,
+            "id": 5,
+            "name": "author"
+        },
+        {
+            "supercategory": null,
+            "id": 6,
+            "name": "barcode"
+        },
+        {
+            "supercategory": null,
+            "id": 7,
+            "name": "bill"
+        },
+        {
+            "supercategory": null,
+            "id": 8,
+            "name": "blank"
+        },
+        {
+            "supercategory": null,
+            "id": 9,
+            "name": "bracket"
+        },
+        {
+            "supercategory": null,
+            "id": 10,
+            "name": "breakout"
+        },
+        {
+            "supercategory": null,
+            "id": 11,
+            "name": "byline"
+        },
+        {
+            "supercategory": null,
+            "id": 12,
+            "name": "caption"
+        },
+        {
+            "supercategory": null,
+            "id": 13,
+            "name": "catalogue"
+        },
+        {
+            "supercategory": null,
+            "id": 14,
+            "name": "chapter title"
+        },
+        {
+            "supercategory": null,
+            "id": 15,
+            "name": "code"
+        },
+        {
+            "supercategory": null,
+            "id": 16,
+            "name": "correction"
+        },
+        {
+            "supercategory": null,
+            "id": 17,
+            "name": "credit"
+        },
+        {
+            "supercategory": null,
+            "id": 18,
+            "name": "dateline"
+        },
+        {
+            "supercategory": null,
+            "id": 19,
+            "name": "drop cap"
+        },
+        {
+            "supercategory": null,
+            "id": 20,
+            "name": "editor's note"
+        },
+        {
+            "supercategory": null,
+            "id": 21,
+            "name": "endnote"
+        },
+        {
+            "supercategory": null,
+            "id": 22,
+            "name": "examinee information"
+        },
+        {
+            "supercategory": null,
+            "id": 23,
+            "name": "fifth-level title"
+        },
+        {
+            "supercategory": null,
+            "id": 24,
+            "name": "figure"
+        },
+        {
+            "supercategory": null,
+            "id": 25,
+            "name": "first-level question number"
+        },
+        {
+            "supercategory": null,
+            "id": 26,
+            "name": "first-level title"
+        },
+        {
+            "supercategory": null,
+            "id": 27,
+            "name": "flag"
+        },
+        {
+            "supercategory": null,
+            "id": 28,
+            "name": "folio"
+        },
+        {
+            "supercategory": null,
+            "id": 29,
+            "name": "footer"
+        },
+        {
+            "supercategory": null,
+            "id": 30,
+            "name": "footnote"
+        },
+        {
+            "supercategory": null,
+            "id": 31,
+            "name": "formula"
+        },
+        {
+            "supercategory": null,
+            "id": 32,
+            "name": "fourth-level section title"
+        },
+        {
+            "supercategory": null,
+            "id": 33,
+            "name": "fourth-level title"
+        },
+        {
+            "supercategory": null,
+            "id": 34,
+            "name": "header"
+        },
+        {
+            "supercategory": null,
+            "id": 35,
+            "name": "headline"
+        },
+        {
+            "supercategory": null,
+            "id": 36,
+            "name": "index"
+        },
+        {
+            "supercategory": null,
+            "id": 37,
+            "name": "inside"
+        },
+        {
+            "supercategory": null,
+            "id": 38,
+            "name": "institute"
+        },
+        {
+            "supercategory": null,
+            "id": 39,
+            "name": "jump line"
+        },
+        {
+            "supercategory": null,
+            "id": 40,
+            "name": "kicker"
+        },
+        {
+            "supercategory": null,
+            "id": 41,
+            "name": "lead"
+        },
+        {
+            "supercategory": null,
+            "id": 42,
+            "name": "marginal note"
+        },
+        {
+            "supercategory": null,
+            "id": 43,
+            "name": "matching"
+        },
+        {
+            "supercategory": null,
+            "id": 44,
+            "name": "mugshot"
+        },
+        {
+            "supercategory": null,
+            "id": 45,
+            "name": "option"
+        },
+        {
+            "supercategory": null,
+            "id": 46,
+            "name": "ordered list"
+        },
+        {
+            "supercategory": null,
+            "id": 47,
+            "name": "other question number"
+        },
+        {
+            "supercategory": null,
+            "id": 48,
+            "name": "page number"
+        },
+        {
+            "supercategory": null,
+            "id": 49,
+            "name": "paragraph"
+        },
+        {
+            "supercategory": null,
+            "id": 50,
+            "name": "part"
+        },
+        {
+            "supercategory": null,
+            "id": 51,
+            "name": "play"
+        },
+        {
+            "supercategory": null,
+            "id": 52,
+            "name": "poem"
+        },
+        {
+            "supercategory": null,
+            "id": 53,
+            "name": "reference"
+        },
+        {
+            "supercategory": null,
+            "id": 54,
+            "name": "sealing line"
+        },
+        {
+            "supercategory": null,
+            "id": 55,
+            "name": "second-level question number"
+        },
+        {
+            "supercategory": null,
+            "id": 56,
+            "name": "second-level title"
+        },
+        {
+            "supercategory": null,
+            "id": 57,
+            "name": "section"
+        },
+        {
+            "supercategory": null,
+            "id": 58,
+            "name": "section title"
+        },
+        {
+            "supercategory": null,
+            "id": 59,
+            "name": "sidebar"
+        },
+        {
+            "supercategory": null,
+            "id": 60,
+            "name": "sub section title"
+        },
+        {
+            "supercategory": null,
+            "id": 61,
+            "name": "subhead"
+        },
+        {
+            "supercategory": null,
+            "id": 62,
+            "name": "subsub section title"
+        },
+        {
+            "supercategory": null,
+            "id": 63,
+            "name": "supplementary note"
+        },
+        {
+            "supercategory": null,
+            "id": 64,
+            "name": "table"
+        },
+        {
+            "supercategory": null,
+            "id": 65,
+            "name": "table caption"
+        },
+        {
+            "supercategory": null,
+            "id": 66,
+            "name": "table note"
+        },
+        {
+            "supercategory": null,
+            "id": 67,
+            "name": "teasers"
+        },
+        {
+            "supercategory": null,
+            "id": 68,
+            "name": "third-level question number"
+        },
+        {
+            "supercategory": null,
+            "id": 69,
+            "name": "third-level title"
+        },
+        {
+            "supercategory": null,
+            "id": 70,
+            "name": "title"
+        },
+        {
+            "supercategory": null,
+            "id": 71,
+            "name": "translator"
+        },
+        {
+            "supercategory": null,
+            "id": 72,
+            "name": "underscore"
+        },
+        {
+            "supercategory": null,
+            "id": 73,
+            "name": "unordered list"
+        },
+        {
+            "supercategory": null,
+            "id": 74,
+            "name": "weather forecast"
+        }
+    ]
+}
